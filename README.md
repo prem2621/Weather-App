@@ -18,3 +18,34 @@ A sleek, responsive weather forecast application built using **React**, **CSS**,
 - 💡 Dynamic background/icons based on weather
 - 🧪 Clean API integration (tested with Postman)
 
+
+## 📁 Folder Structure
+/climate-craft
+├── public/
+│ └── index.html
+├── src/
+│ ├── components/
+│ │ └── WeatherCard.jsx
+│ ├── App.jsx
+│ ├── App.css
+│ └── main.jsx
+├── .env (API key stored securely)
+└── README.md
+
+## 📦 API Used
+
+🌐 OpenWeatherMap API — for fetching real-time weather data.
+📬 Postman — for testing and validating API responses.
+
+
+---
+
+✅ **Tips:**
+- Make sure your GitHub repo is named `climate-craft` or similar and has the above structure.
+- You can replace the quote at the end with your own line — emotional or smart punchline.
+
+Shall I create and push this for you if you give me the GitHub repo link? Or do you want a markdown file to paste directly?
+
+
+Crafted with 💙 by Prem Kumar
+
